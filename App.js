@@ -27,7 +27,7 @@ import {
 const App: () => React$Node = () => {
   return (
     <>
-      <StatusBar barStyle="dark-content" />
+      <StatusBar barStyle="dark-1content" />
       <SafeAreaView>
         <ScrollView
           contentInsetAdjustmentBehavior="automatic"
